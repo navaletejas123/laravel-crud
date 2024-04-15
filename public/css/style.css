@@ -1,0 +1,44 @@
+.view{
+    background-color: #E178C5;
+}
+.edit{
+    background-color: #007F73;
+}
+
+.delete{
+    background-color: #944E63;
+}
+
+
+
+.view:hover{
+    background-color: #E178C5;
+}
+.edit:hover{
+    background-color: #007F73;
+}
+.delete:hover{
+    background-color: #944E63;
+}
+
+.productview{
+    background-color: #E5BA73;
+}
+.productedit{
+    background-color: #D09CFA;
+}
+
+.productdelete{
+    background-color: #FF9E9E;
+}
+
+.productview:hover{
+    background-color: #E5BA73;
+}
+.productedit:hover{
+    background-color: #D09CFA;
+}
+
+.productdelete:hover{
+    background-color: #FF9E9E;
+}
